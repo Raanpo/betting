@@ -1,6 +1,7 @@
 Hey guys!
 
 Sometimes betting on teams is stressful so using a simple stat like the total wins, this program can tell you what odds you should look for.
+Uses Python
 
 Comes with 5 main functions
 
@@ -9,3 +10,6 @@ Comes with 5 main functions
 3. Once you are done with changes, the third command would write the end results to a file so you can use the new information next time.
 4. This is the main function which looks at the amount of wins each team has and calculate the odds that you should look for.
 5. If you need a refresher on what the current standings in your league looks like, this function will list all of the teams and their win-lose.
+
+I hope to implement being able to webscrape the results from the web and then update the file based on that later on.
+I hope to also be able to webscrape upcoming matches so all you have to do is press a button and you get odds for all of the matches for the day.
