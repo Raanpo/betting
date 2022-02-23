@@ -1,3 +1,5 @@
+Hey guys!
+
 Sometimes betting on teams is stressful so using a simple stat like the total wins, this program can tell you what odds you should look for.
 
 Comes with 5 main functions
